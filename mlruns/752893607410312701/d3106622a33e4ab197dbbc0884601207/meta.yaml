@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/752893607410312701/d3106622a33e4ab197dbbc0884601207/artifacts
+end_time: 1764415275945
+entry_point_name: ''
+experiment_id: '752893607410312701'
+lifecycle_stage: active
+run_id: d3106622a33e4ab197dbbc0884601207
+run_name: funny-sloth-956
+run_uuid: d3106622a33e4ab197dbbc0884601207
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764414850884
+status: 3
+tags: []
+user_id: chamakh

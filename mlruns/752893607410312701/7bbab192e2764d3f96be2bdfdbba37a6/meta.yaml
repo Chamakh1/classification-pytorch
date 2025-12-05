@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/752893607410312701/7bbab192e2764d3f96be2bdfdbba37a6/artifacts
+end_time: 1764415275695
+entry_point_name: ''
+experiment_id: '752893607410312701'
+lifecycle_stage: active
+run_id: 7bbab192e2764d3f96be2bdfdbba37a6
+run_name: resnet18_freeze_True_fold_4_121948
+run_uuid: 7bbab192e2764d3f96be2bdfdbba37a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764415188168
+status: 3
+tags: []
+user_id: chamakh
