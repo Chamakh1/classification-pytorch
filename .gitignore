@@ -1,0 +1,24 @@
+
+/data
+.dvc/config.local
+.dvc/tmp
+.dvc/cache
+/models
+temporal-ring-478309-g7-89702716dfd5.json
+
+# --- Ce qu'il faut ajouter pour stopper les conflits ---
+# Ignore les fichiers compilés Python (source de tes erreurs .pyc)
+__pycache__/
+*.pyc
+
+# Ignore les logs et résultats d'expérience MLflow
+mlruns/
+
+# Ignore les graphiques générés
+plots/
+
+# Ignore les fichiers système Mac/Windows (optionnel mais recommandé)
+.DS_Store
+Thumbs.db
+
+mlartifacts/
